@@ -1,3 +1,6 @@
-# test
+# プログラムメモ
 
-[AboutMe](./CSharp/XAML/DataGrid.md)
+## 言語
+- [C#](./CSharp/XAML/DataGrid.md)
+- [Python](./Python/)
+- [C++](./Cpp/)
