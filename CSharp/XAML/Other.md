@@ -13,7 +13,7 @@ private void MainWindow_PreviewKeyDown(object sender, KeyEventArgs e)
 }
 ```
 
--- **<font color="#006e54">RelativeSource</font>**
+- **<font color="#006e54">RelativeSource</font>**
 
 Reference:[RelativeSource](http://d.hatena.ne.jp/hilapon/20130405/1365143758)
 
