@@ -1,6 +1,6 @@
 # プログラムメモ
 
 ## 言語
-- [C#](./CSharp/XAML/index.md)
-- [Python](./Python/)
-- [C++](./Cpp/)
+- [C#](./CSharp/index.md)
+- [Python](./Python/index.md)
+- [C++](./Cpp/index.md)

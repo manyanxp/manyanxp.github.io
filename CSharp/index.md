@@ -1,5 +1,8 @@
 # Reference
 [WPF Tutorial](http://www.wpftutorial.net/datagrid.html)
 
+---
 # Table of Contents
-[XANL](./XAML/index.md)
+[TOP](../index.md)
+[WPF](./XAML/index.md)
+---
